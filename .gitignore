@@ -1,3 +1,6 @@
-/**/*.o
-/bin
-/doc
+/Servidor/**/*.o
+/Servidor/bin
+/Servidor/doc
+/Cliente/**/*.o
+/Cliente/bin
+/Cliente/doc
